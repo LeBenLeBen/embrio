@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Embrio\n"
+"POT-Creation-Date: 2015-08-05 21:20+0200\n"
+"PO-Revision-Date: 2015-08-05 21:20+0200\n"
+"Last-Translator: Benoît Burgener\n"
+"Language-Team: Benoît Burgener <benoit.burgener@gmail.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:3
+msgid "Page not found"
+msgstr "Page introuvable"
+
+#: archive.php:4 archive.php:6 archive.php:8 archive.php:10
+msgid "Archive"
+msgstr "Archives"
+
+#: archive.php:18 category.php:10 index.php:10 search.php:10 tag.php:10
+msgid "No posts to display."
+msgstr "Aucun article à afficher."
+
+#: category.php:3
+msgid "Category Archive"
+msgstr "Archive de la catégorie"
+
+#: comments.php:9
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: footer.php:2
+msgid "All rights reserved."
+msgstr "Tous droits réservés."
+
+#: includes/theme_overrides.php:22
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: includes/theme_setup.php:33
+msgid "Primary sidebar"
+msgstr "Barre latérale principale"
+
+#: includes/theme_setup.php:46
+msgid "Primary navigation"
+msgstr "Navigation principale"
+
+#: index.php:3
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: post.php:2
+msgid "Permalink to"
+msgstr "Lien permanent vers"
+
+#: post.php:6
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: post.php:6
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: post.php:6
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: post.php:8
+msgid "Read more&hellip;"
+msgstr "Lire la suite&hellip;"
+
+#: search.php:3
+msgid "Search Results for"
+msgstr "Résultats de la recherche pour"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Rechercher"
+
+#: tag.php:3
+msgid "Tag Archive"
+msgstr "Archive du mot-clé"
+
+#. Theme Name of the plugin/theme
+msgid "Embrio"
+msgstr "Embrio"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/LeBenLeBen/embrio"
+msgstr "https://github.com/LeBenLeBen/embrio"
+
+#. Description of the plugin/theme
+msgid "A bare WordPress theme ready to customize."
+msgstr "Un thème WordPress nu prêt à être personnalisé."
+
+#. Author of the plugin/theme
+msgid "Benoît LeBen Burgener"
+msgstr "Benoît LeBen Burgener"
+
+#. Author URI of the plugin/theme
+msgid "http://benoitburgener.ch"
+msgstr "http://benoitburgener.ch"
+
+#~ msgid "Default sidebar"
+#~ msgstr "Barre latérale par défaut"

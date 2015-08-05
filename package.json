@@ -1,0 +1,19 @@
+{
+  "name": "embrio",
+  "version": "1.0.0",
+  "description": "A bare WordPress theme ready to customize.",
+  "main": "index.php",
+  "author": "Benoît Burgener",
+  "license": "MIT",
+  "repository": "lebenleben/embrio",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.0.3",
+    "gulp-uglify": "^1.2.0"
+  }
+}
