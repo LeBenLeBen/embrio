@@ -1,5 +1,5 @@
 <!Doctype html>
-<html class="no-js">
+<html class="no-js" <?php language_attributes() ?>>
   <head>
     <title><?php wp_title( '&middot;', true, 'right' ); ?></title>
 
